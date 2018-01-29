@@ -1,0 +1,22 @@
+img{
+  width: 100%;
+  height: auto;
+}
+
+header{
+  background-color: bisque;
+}
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.card-box {
+  border:1px solid lightgrey;
+}
+.card-text{
+  padding: 15px;
+}
